@@ -28,12 +28,12 @@ for table in tables:
         # Save as CSV
         df.to_csv(output_path, index=False)
         
-        print(f"✅ {table}: {len(df)} rows, {len(df.columns)} columns")
+        print(f" {table}: {len(df)} rows, {len(df.columns)} columns")
         print(f"   Columns: {list(df.columns)}\n")
         
     except FileNotFoundError:
-        print(f"❌ {table}: File not found at {input_path}")
+        print(f" {table}: File not found at {input_path}")
     except Exception as e:
-        print(f"❌ {table}: Error — {e}")
+        print(f" {table}: Error — {e}")
 
-print("\n🎉 Extraction complete! Check data/raw/ for CSV files.")
+print("\n Extraction complete! Check data/raw/ for CSV files.")

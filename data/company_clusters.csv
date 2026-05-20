@@ -1,0 +1,103 @@
+symbol,company_name,sector,cluster,cluster_label
+ABB,Abbott India Ltd,Capital Goods,0,High Growth Low Debt
+DMART,Avenue Supermarts Ltd,Retail,1,Stable Dividend Moderate Growth
+HDFCLIFE,HDFC Life Insurance Company Ltd,Insurance,1,Stable Dividend Moderate Growth
+PFC,Power Finance Corporation Ltd,0,4,Consistent Quality
+DIVISLAB,Divis Laboratories Ltd,Pharma,0,High Growth Low Debt
+BHEL,Bharat Heavy Electricals Limited,0,0,High Growth Low Debt
+TCS,Tata Consultancy Services Ltd,IT,0,High Growth Low Debt
+TATASTEEL,Tata Steel Ltd,Metals,1,Stable Dividend Moderate Growth
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,NBFC,1,Stable Dividend Moderate Growth
+COALINDIA,Coal India Ltd,Mining,0,High Growth Low Debt
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Pharma,1,Stable Dividend Moderate Growth
+GODREJCP,Godrej Consumer Products Ltd,FMCG,1,Stable Dividend Moderate Growth
+SIEMENS,Siemens Ltd,Capital Goods,1,Stable Dividend Moderate Growth
+NHPC,NHPC Ltd,0,0,High Growth Low Debt
+BRITANNIA,Britannia Industries Ltd,FMCG,0,High Growth Low Debt
+UNITDSPR,0,0,1,Stable Dividend Moderate Growth
+CANBK,Canara Bank,0,1,Stable Dividend Moderate Growth
+GRASIM,Grasim Industries Ltd,Diversified,1,Stable Dividend Moderate Growth
+DLF,DLF Ltd,Real Estate,0,High Growth Low Debt
+ADANIENT,Adani Enterprises Ltd,Conglomerate,1,Stable Dividend Moderate Growth
+CIPLA,Cipla Ltd,Pharma,1,Stable Dividend Moderate Growth
+NTPC,NTPC Ltd,Power,0,High Growth Low Debt
+HDFCBANK,HDFC Bank Ltd,Banking,1,Stable Dividend Moderate Growth
+RECLTD,REC Ltd,0,4,Consistent Quality
+TATACONSUM,Tata Consumer Products Ltd,FMCG,1,Stable Dividend Moderate Growth
+HINDALCO,Hindalco Industries Ltd,Metals,1,Stable Dividend Moderate Growth
+NESTLEIND,Nestle India Ltd,FMCG,0,High Growth Low Debt
+GAIL,GAIL (India) Ltd,Energy,0,High Growth Low Debt
+INDIGO,Interglobe Aviation Ltd,Aviation,0,High Growth Low Debt
+BEL,Bharat Electronics Ltd,0,0,High Growth Low Debt
+M&M,Mahindra & Mahindra Ltd,Auto,1,Stable Dividend Moderate Growth
+AXISBANK,Axis Bank Ltd,Banking,1,Stable Dividend Moderate Growth
+EICHERMOT,Eicher Motors Ltd,Auto,1,Stable Dividend Moderate Growth
+VBL,0,0,1,Stable Dividend Moderate Growth
+TVSMOTOR,TVS Motor Company Ltd,0,1,Stable Dividend Moderate Growth
+POWERGRID,Power Grid Corporation of India Ltd,Power,0,High Growth Low Debt
+MOTHERSON,Samvardhana Motherson International Ltd,0,1,Stable Dividend Moderate Growth
+IOC,Indian Oil Corporation,Energy,1,Stable Dividend Moderate Growth
+TRENT,Trent Ltd,Consumer Goods,1,Stable Dividend Moderate Growth
+SHRIRAMFIN,Shriram Finance Ltd,NBFC,1,Stable Dividend Moderate Growth
+SBILIFE,SBI Life Insurance Company Ltd,Insurance,1,Stable Dividend Moderate Growth
+LODHA,Macrotech Developers Ltd,Real Estate,1,Stable Dividend Moderate Growth
+ZOMATO,0,0,1,Stable Dividend Moderate Growth
+TATAMOTORS,Tata Motors Ltd,Auto,1,Stable Dividend Moderate Growth
+BHARTIARTL,Bharti Airtel Ltd,Telecom,0,High Growth Low Debt
+PIDILITIND,Pidilite Industries Ltd,Chemicals,0,High Growth Low Debt
+HAVELLS,Havells India Ltd,Capital Goods,0,High Growth Low Debt
+BANKBARODA,Bank of Baroda,Banking,1,Stable Dividend Moderate Growth
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",Healthcare,1,Stable Dividend Moderate Growth
+BOSCHLTD,Bosch Ltd,0,0,High Growth Low Debt
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,0,0,High Growth Low Debt
+RELIANCE,Reliance Industries Ltd,Energy,1,Stable Dividend Moderate Growth
+PNB,Punjab National Bank,0,1,Stable Dividend Moderate Growth
+ITC,ITC Ltd,0,0,High Growth Low Debt
+HINDUNILVR,Hindustan Unilever Ltd,FMCG,0,High Growth Low Debt
+INDUSINDBK,IndusInd Bank Ltd,Banking,1,Stable Dividend Moderate Growth
+LT,Larsen & Toubro Ltd,0,1,Stable Dividend Moderate Growth
+SHREECEM,Shree Cement Ltd,Cement,1,Stable Dividend Moderate Growth
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,0,High Growth Low Debt
+LICI,Life Insurance Corporation of India,0,2,High Leverage Banking
+BAJFINANCE,Bajaj Finance Ltd,NBFC,4,Consistent Quality
+ADANIENSOL,Adani Energy Solutions Ltd,Power,1,Stable Dividend Moderate Growth
+TECHM,Tech Mahindra Ltd,IT,0,High Growth Low Debt
+ICICIBANK,ICICI Bank Ltd,Banking,1,Stable Dividend Moderate Growth
+BAJAJFINSV,Bajaj Finserv Ltd,NBFC,4,Consistent Quality
+ADANIPOWER,Adani Power Ltd,Power,1,Stable Dividend Moderate Growth
+ZYDUSLIFE,0,0,1,Stable Dividend Moderate Growth
+JINDALSTEL,Jindal Steel & Power Ltd,0,1,Stable Dividend Moderate Growth
+DABUR,Dabur India Ltd,FMCG,0,High Growth Low Debt
+BAJAJ-AUTO,Bajaj Auto Ltd,Auto,0,High Growth Low Debt
+NAUKRI,Info Edge (India) Ltd,0,1,Stable Dividend Moderate Growth
+TITAN,Titan Company Ltd,Consumer Goods,1,Stable Dividend Moderate Growth
+JIOFIN,Jio Financial Services Ltd,0,1,Stable Dividend Moderate Growth
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Travel & Tourism,0,High Growth Low Debt
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,0,3,Small Cap Low Margin
+ULTRACEMCO,0,0,1,Stable Dividend Moderate Growth
+HEROMOTOCO,Hero MotoCorp Ltd,Auto,0,High Growth Low Debt
+IRFC,Indian Railway Finance Corporation Ltd,0,4,Consistent Quality
+HCLTECH,HCL Technologies Ltd,IT,0,High Growth Low Debt
+WIPRO,0,0,1,Stable Dividend Moderate Growth
+JSWSTEEL,JSW Steel Ltd,Metals,1,Stable Dividend Moderate Growth
+DRREDDY,Dr Reddys Laboratories Ltd,Pharma,1,Stable Dividend Moderate Growth
+KOTAKBANK,Kotak Mahindra Bank Ltd,Banking,1,Stable Dividend Moderate Growth
+INFY,Infosys Ltd,IT,0,High Growth Low Debt
+ADANIGREEN,Adani Green Energy Ltd,Power,1,Stable Dividend Moderate Growth
+AMBUJACEM,Ambuja Cements Ltd,Cement,0,High Growth Low Debt
+VEDL,0,0,0,High Growth Low Debt
+LTIM,LTIMindtree Ltd,IT,0,High Growth Low Debt
+MARUTI,Maruti Suzuki India Ltd,Auto,1,Stable Dividend Moderate Growth
+TORNTPHARM,Torrent Pharmaceuticals Ltd,0,0,High Growth Low Debt
+SBIN,State Bank of India,Banking,0,High Growth Low Debt
+TATAPOWER,Tata Power Company Ltd,Power,1,Stable Dividend Moderate Growth
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Insurance,1,Stable Dividend Moderate Growth
+HAL,Hindustan Aeronautics Ltd,0,0,High Growth Low Debt
+ADANIPORTS,Adani Ports & Special Economic Zone Ltd,Ports,1,Stable Dividend Moderate Growth
+ATGL,Adani Total Gas Ltd,Power,1,Stable Dividend Moderate Growth
+JSWENERGY,JSW Energy Ltd,0,1,Stable Dividend Moderate Growth
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Paint,0,High Growth Low Debt
+UNIONBANK,0,0,1,Stable Dividend Moderate Growth
+BPCL,Bharat Petroleum Corporation Ltd,Energy,0,High Growth Low Debt
